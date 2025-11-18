@@ -55,9 +55,7 @@ efficient real-time number plate detection.Training the model using GPU accelera
 - Python Libraries: NumPy, Pandas, Matplotlib, Seaborn, TensorFlow/PyTorch. 
 - Image Processing: Includes resizing, contrast enhancement, and edge detection techniques.
 
-## 🔧 How to use (Streamlit app)
-
-### Run the Streamlit App
+## 🔧 Run the Streamlit App
 
 ```bash
 cd D:\final_st
